@@ -1,0 +1,5 @@
+langchain_openai==1.1.10
+langgraph==1.0.10
+langchain==1.2.10
+numexpr==2.14.1
+load_dotenv
